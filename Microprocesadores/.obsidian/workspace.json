@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1eb9efcbde34ff73",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b78fdc1df3d8a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc5ba0fa074fea8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ArduinoMega/atmel-0856-avr-instruction-set-manual.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "atmel-0856-avr-instruction-set-manual"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac31bb85bc608c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ed6c25800764dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51cad0b560769e66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ede0ae9015971f47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0aecbe9ee7260de1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcb058e4934df2d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "90712e79245af490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535a214b147b94a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. Microcontroladores vs Microprocesador.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02. Microcontroladores vs Microprocesador"
+            }
+          },
+          {
+            "id": "7b8f2ab15d936e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02. Microcontroladores vs Microprocesador.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02. Microcontroladores vs Microprocesador"
+            }
+          },
+          {
+            "id": "1a84fb7d682b170b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b50aeba916821b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. Microcontroladores vs Microprocesador.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02. Microcontroladores vs Microprocesador"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5cc5ba0fa074fea8",
+  "lastOpenFiles": [
+    "ArduinoMega/atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf",
+    "ArduinoMega/instructions_set.pdf",
+    "ArduinoMega/atmel-0856-avr-instruction-set-manual.pdf",
+    "03.  Arquitectura del conjunto de instrucciones.md",
+    "ArduinoMega",
+    "03.3. Decodificador.jpeg",
+    "03.2. Instrucciones Jump and Branch.jpeg",
+    "03.1. Instrucciones inmeadiatas.jpeg",
+    "IMG_1312.heic",
+    "02. Microcontroladores vs Microprocesador.md",
+    "01. Temario.md",
+    "Welcome.md"
+  ]
+}
